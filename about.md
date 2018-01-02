@@ -7,8 +7,8 @@ imagefeature:
 chart: true
 ---
 <figure>
-  <img src="blabdool.github.io/images/about_me_image.jpg" alt="Bilkisu Larai Muhammad-Bello">
-  <!-<figcaption> Bilkisu Larai Muhammad-Bello</figcaption> -->
+  <img src="{{ site.url }}/images/about_me_image.jpg" alt="Bilkisu Larai Muhammad-Bello">
+  <!--<figcaption> Bilkisu Larai Muhammad-Bello</figcaption> -->
 </figure>
 
 {% assign total_words = 0 %}
