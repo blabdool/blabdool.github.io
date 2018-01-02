@@ -7,8 +7,8 @@ imagefeature:
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/about_me_image.png" alt="Bilkisu Larai Muhammad-Bello">
-  <!-- <figcaption> Bilkisu Larai Muhammad-Bello</figcaption> -->
+  <img src="blabdool.github.io/images/about_me_image.jpg" alt="Bilkisu Larai Muhammad-Bello">
+  <!-<figcaption> Bilkisu Larai Muhammad-Bello</figcaption> -->
 </figure>
 
 {% assign total_words = 0 %}
@@ -27,9 +27,9 @@ chart: true
 {% endfor %}
 
 
-Hi! My name is **Bilkisu Larai Muhammad-Bello**, I like to shorten to Bilkisu. I am a grad student of [Computer Science and Electrical Engineering Department](http://www.eng.kumamoto-u.ac.jp/english/dept/dept06.html) at [Kumamoto University](http://www.kumamoto-u.ac.jp/) and, this is my personal blog. My research is about service selection in Cloud Computing and Workflow Scheduling in the Cloud environment. I am also interested in Machine Learning and data analytics, so I am taking the [Cousera course](https://www.coursera.org/learn/machine-learning). In the past three years I've been learning a lot of new things. I am currently learning web development, so this is like my test site. I can be reached by [email](blabdool@gmail.com) or some of my online profiles so give a shoutout.
+Hi! My name is **Bilkisu Larai Muhammad-Bello**, I like to shorten to Bilkisu. I am a grad student of [Computer Science and Electrical Engineering Department](http://www.eng.kumamoto-u.ac.jp/english/dept/dept06.html) at [Kumamoto University](http://www.kumamoto-u.ac.jp/) and, this is my personal blog. My research is about service selection in Cloud Computing and Workflow Scheduling in the Cloud environment. I am also interested in Machine Learning and data analytics, so I am taking the [Cousera course](https://www.coursera.org/learn/machine-learning). In the past three years I've been learning a lot of new things. I am currently learning web development, so this is like my test site. I can be reached by [email](blabdool@gmail.com) or [Facebook](http://facebook.com/bilkisua), [Twitter](http://twitter.com/blabdool), [LinkedIn](https://www.linkedin.com/in/bilkisu-bello-9b534474/), and [Quora](https://www.quora.com/profile/BILKISU-MUHAMMAD-BELLO), so give a shoutout.
 
-###Things I have done recently###
+**Things I have done recently**
 * I published a paper called [A transparent approach to performance analysis and comparison of infrastructure as a service providers](http://www.sciencedirect.com/science/article/pii/S0045790617311746) (in press) with my [advisor](http://www.dbms.cs.kumamoto-u.ac.jp/~aritsugi/intro.shtml) which discussed a novel methodology for comparing public cloud virtual machines using established benchmarks and shows workload correlation of the adapted benchmarks with three real analytics application workloads.
 * I also published another paper called [Robust Deadline-Constrained Resource Provisioning and Workflow Scheduling Algorithm for Handling Performance Uncertainty in IaaS Clouds](https://dl.acm.org/citation.cfm?id=3148110&CFID=1023126095&CFTOKEN=89513308) and gave a talk about it in Dec. 2017 at the [CloudAM/HDCC](cloudam2017.lncc.br), a [UCC 2017](http://www.depts.ttu.edu/cac/conferences/ucc2017/) Workshop.
 
