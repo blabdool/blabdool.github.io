@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Documentation"
+title: "Documentation for this theme"
 description: "Instructions on how to install and customize the HMFAYSAL Notepad Theme."
 category: theme
-tags: [how-to]
+tags: [how-to, jekyll]
 imagefeature:
 ---
 
